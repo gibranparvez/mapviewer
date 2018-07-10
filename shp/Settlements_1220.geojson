@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 2, "Settlement": "Chantilly", "Year_Found": 1832 }, "geometry": { "type": "Point", "coordinates": [ -77.431066904999909, 38.894153983000081 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "Settlement": "Frying Pan, Floris", "Year_Found": 1725 }, "geometry": { "type": "Point", "coordinates": [ -77.413950356999919, 38.940817074000051 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "Settlement": "Herndon", "Year_Found": 1858 }, "geometry": { "type": "Point", "coordinates": [ -77.383882403999905, 38.969751276000068 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 8, "Settlement": "Willard Crossroads", "Year_Found": 1900 }, "geometry": { "type": "Point", "coordinates": [ -77.45021926499993, 38.941857414000083 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 9, "Settlement": "Conklin", "Year_Found": 1871 }, "geometry": { "type": "Point", "coordinates": [ -77.514361365999946, 38.895569287000058 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 10, "Settlement": "Oak Grove", "Year_Found": 1871 }, "geometry": { "type": "Point", "coordinates": [ -77.408793079999953, 38.976768036000067 ] } }
+]
+}
